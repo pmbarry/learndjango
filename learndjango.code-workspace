@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/paulbarry/Documents/DjangoProjects/python-tdd-book2"
 		}
 	],
 	"settings": {
