@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "learndjango",
-			"path": "/Users/paulbarry/Documents/DjangoProjects/learndjango"
 		}
 	],
 	"settings": {
